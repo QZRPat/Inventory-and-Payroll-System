@@ -1,0 +1,28 @@
+Steps in installing the system
+1. install the xampp driver
+
+2. open the xampp controll panel and click on the start button on the Apache
+and MySQL
+
+2. after installing, copy the 2 folders and head over to the xampp folder
+    there you'll find a folder naming htdocs
+
+3.  paste the 2 folders inside the htdocs folder
+
+4.  go to the url “http://localhost/phpmyadmin“
+
+5. create 2 databases, inventorymgtci and apsystem
+
+6. click on the "import" tab and choose the database file given
+(inventory management system database: inventorymgtci)
+(payroll system database: apsystem)
+
+7. After setting up all these, go to URL “http://localhost/[ PROJECT_FOLDER_NAME ]/“
+
+Inventory management
+Username: admin@gmail.com
+Password: Password@123
+
+Payroll System
+Username: MissyFishy
+Password: admin
